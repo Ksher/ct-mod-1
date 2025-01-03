@@ -29,3 +29,10 @@ h1{
 input{
     width: 96%;
 }
+a+a{
+    margin-left: 20px;
+}
+
+#fpw{
+    margin-left: 130px;
+}
